@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="940129dc-892a-44b5-b490-7c55d5e5dc5b" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>platzi</find>
+      <find>p.data[&quot;name&quot;]</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gtxHcEcLaKQGI2ThhWTBYBHCml" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="bl&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/bloc/bloc_user.dart&#10;clo&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/repository/cloud_firestore_api.dart&#10;user&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/bloc/bloc_user.dart&#10;cloud&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/repository/cloud_firestore_api.dart&#10;place&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/ui/widgets/profile_places_list.dart&#10;profile&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/ui/screens/profile_header.dart&#10;add&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/Place/ui/screens/add_place_screen.dart&#10;card&#9;null&#9;null&#10;pr&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/ui/screens/profile_trips.dart&#10;prof&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/ui/screens/profile_trips.dart&#10;button&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/ui/widgets/button_bar.dart&#10;pro&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/ui/widgets/profile_places_list.dart&#10;u&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/bloc/bloc_user.dart&#10;butt&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/ui/widgets/button_bar.dart&#10;button_&#9;FILE&#9;file:///Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/lib/User/ui/widgets/button_bar.dart" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/Place" />
+      <recent name="$PROJECT_DIR$/lib/Place/ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/lib/Place/model" />
+      <recent name="$PROJECT_DIR$/lib/widgets" />
+      <recent name="$PROJECT_DIR$/lib/User/ui/widgets" />
+      <recent name="$PROJECT_DIR$/lib/User/ui/screens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="940129dc-892a-44b5-b490-7c55d5e5dc5b" name="Default" comment="" />
+      <created>1555376920198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555376920198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="280" key="FileChooserDialogImpl" timestamp="1598947837848">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="620" y="280" key="FileChooserDialogImpl/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1598947837848" />
+    <state width="1639" height="285" key="GridCell.Tab.0.bottom" timestamp="1598953603776">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1639" height="285" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1598953603776" />
+    <state width="1639" height="285" key="GridCell.Tab.0.center" timestamp="1598953603776">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1639" height="285" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1598953603776" />
+    <state width="1639" height="285" key="GridCell.Tab.0.left" timestamp="1598953603776">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1639" height="285" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1598953603776" />
+    <state width="1639" height="285" key="GridCell.Tab.0.right" timestamp="1598953603776">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1639" height="285" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1598953603776" />
+    <state x="341" y="168" key="SettingsEditor" timestamp="1598947845904">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="168" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1598947845904" />
+  </component>
+</project>
