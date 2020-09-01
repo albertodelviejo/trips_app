@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "260185055313",
-    "firebase_url": "https://platzitripsflutter-bec5e.firebaseio.com",
-    "project_id": "platzitripsflutter-bec5e",
-    "storage_bucket": "platzitripsflutter-bec5e.appspot.com"
+    "project_number": "425294326162",
+    "firebase_url": "https://trips-app-480a5.firebaseio.com",
+    "project_id": "trips-app-480a5",
+    "storage_bucket": "trips-app-480a5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:260185055313:android:80d3dd1ca61cb156",
+        "mobilesdk_app_id": "1:425294326162:android:fd2b4c2b9edf401e70b94b",
         "android_client_info": {
           "package_name": "com.anncode.platzitripsflutter"
         }
       },
       "oauth_client": [
         {
-          "client_id": "260185055313-3j89lds8nce6p2sftvjh877j4r8jgfl1.apps.googleusercontent.com",
+          "client_id": "425294326162-0e5vh9kgjfgg0qtvm3308r5qijmoi07k.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.anncode.platzitripsflutter",
-            "certificate_hash": "0e776080707732473704d7a1cf8b7edb4fb22a55"
+            "certificate_hash": "108c9abd3e2314d4f8d9724663641b3d00ce2bd0"
           }
         },
         {
-          "client_id": "260185055313-e3ikaoaeo4is06ja14tqljpatnroj628.apps.googleusercontent.com",
+          "client_id": "425294326162-uktvopdqvm2gmjjl63f3229qbuef6sd8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC0MMKGfcDLBYz0eDhq2xogA3oJjYd0iHA"
+          "current_key": "AIzaSyDoXoxTMYGBSai3YkmEY0_wMV8VbOLcaOw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "260185055313-e3ikaoaeo4is06ja14tqljpatnroj628.apps.googleusercontent.com",
+              "client_id": "425294326162-uktvopdqvm2gmjjl63f3229qbuef6sd8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

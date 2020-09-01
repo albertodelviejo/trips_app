@@ -1,0 +1,854 @@
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+com.google.android.gms.measurement.AppMeasurement: void setConditionalUserProperty(com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty)
+androidx.savedstate.Recreator
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy valueOf(java.lang.String)
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_light
+com.google.firestore.v1.Target$TargetTypeCase: com.google.firestore.v1.Target$TargetTypeCase[] values()
+io.flutter.plugins.firebase.storage.FirebaseStoragePlugin$StorageTaskEventType: io.flutter.plugins.firebase.storage.FirebaseStoragePlugin$StorageTaskEventType valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView
+com.google.android.gms.measurement.AppMeasurement: void setConditionalUserPropertyAs(com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+io.opencensus.trace.NetworkEvent$Type: io.opencensus.trace.NetworkEvent$Type valueOf(java.lang.String)
+androidx.core.R$id: int tag_accessibility_clickable_spans
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_light_normal
+com.google.common.util.concurrent.AbstractFuture$Waiter: com.google.common.util.concurrent.AbstractFuture$Waiter next
+io.grpc.internal.GzipInflatingBuffer$State: io.grpc.internal.GzipInflatingBuffer$State[] values()
+androidx.core.R$id: int accessibility_custom_action_16
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+com.google.common.util.concurrent.AbstractFuture: java.lang.Object value
+com.google.firestore.v1.BatchGetDocumentsResponse$ResultCase: com.google.firestore.v1.BatchGetDocumentsResponse$ResultCase[] values()
+io.grpc.okhttp.internal.TlsVersion: io.grpc.okhttp.internal.TlsVersion[] values()
+com.google.android.gms.internal.measurement.zzvm: java.util.Map zzbyo
+com.google.firestore.v1.TargetChange$TargetChangeType: com.google.firestore.v1.TargetChange$TargetChangeType[] values()
+io.grpc.internal.CensusTracingModule$ServerTracer: int streamClosed
+com.google.android.gms.internal.firebase_auth.zzct: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI,boolean)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+com.google.firebase.auth.FirebaseAuthRegistrar: java.util.List getComponents()
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+com.google.android.gms.internal.firebase_auth.zzdj: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.StructuredQuery$FieldFilter$Operator: com.google.firestore.v1.StructuredQuery$FieldFilter$Operator valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+com.google.android.gms.common.internal.ResolveAccountRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.measurement.AppMeasurement: java.util.List getConditionalUserProperties(java.lang.String,java.lang.String)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mAppId
+com.google.android.gms.flags.zzd: com.google.android.gms.flags.zzc asInterface(android.os.IBinder)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+io.grpc.okhttp.NegotiationType: io.grpc.okhttp.NegotiationType[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+com.google.android.gms.base.R$string: int common_google_play_services_enable_button
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty
+com.google.android.gms.internal.firebase_auth.zzcj: android.os.Parcelable$Creator CREATOR
+com.google.firebase.firestore.core.ViewSnapshot$SyncState: com.google.firebase.firestore.core.ViewSnapshot$SyncState[] values()
+androidx.core.R$id: int accessibility_custom_action_13
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_light_focused
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+com.google.firebase.firestore.DocumentChange$Type: com.google.firebase.firestore.DocumentChange$Type[] values()
+com.google.firestore.v1.BatchGetDocumentsRequest$ConsistencySelectorCase: com.google.firestore.v1.BatchGetDocumentsRequest$ConsistencySelectorCase valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+com.google.firebase.auth.FirebaseAuthRegistrar: FirebaseAuthRegistrar()
+com.google.firebase.firestore.util.AsyncQueue$TimerId: com.google.firebase.firestore.util.AsyncQueue$TimerId[] values()
+com.google.android.gms.base.R$string: int common_open_on_phone
+com.google.firebase.Timestamp: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+androidx.core.R$id: int italic
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+io.grpc.Context$DirectExecutor: io.grpc.Context$DirectExecutor[] values()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+com.google.android.gms.base.R$drawable: int common_full_open_on_phone
+io.grpc.ConnectivityState: io.grpc.ConnectivityState[] values()
+io.grpc.okhttp.internal.CipherSuite: io.grpc.okhttp.internal.CipherSuite valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompat
+com.google.android.gms.base.R$string: int common_signin_button_text_long
+androidx.core.R$id: int accessibility_custom_action_30
+com.google.firebase.iid.zzl: android.os.Parcelable$Creator CREATOR
+androidx.core.R$id: int line1
+io.grpc.okhttp.internal.Protocol: io.grpc.okhttp.internal.Protocol[] values()
+com.google.android.gms.signin.internal.zaa: android.os.Parcelable$Creator CREATOR
+androidx.loader.content.ModernAsyncTask$Status: androidx.loader.content.ModernAsyncTask$Status[] values()
+com.google.firestore.v1.Value$ValueTypeCase: com.google.firestore.v1.Value$ValueTypeCase[] values()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+com.google.firestore.v1.DocumentTransform$FieldTransform$TransformTypeCase: com.google.firestore.v1.DocumentTransform$FieldTransform$TransformTypeCase[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+io.flutter.plugins.imagepicker.ImagePickerPlugin$LifeCycleObserver
+io.flutter.view.AccessibilityViewEmbedder
+com.google.android.gms.internal.firebase_auth.zzdp: android.os.Parcelable$Creator CREATOR
+com.anncode.platzitripsflutter.MainActivity
+androidx.core.R$id: int time
+com.google.android.gms.internal.firebase_auth.zzay: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+androidx.core.R$id: int forever
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+androidx.core.R$id: int accessibility_custom_action_9
+com.google.firestore.v1.Target$QueryTarget$QueryTypeCase: com.google.firestore.v1.Target$QueryTarget$QueryTypeCase[] values()
+com.google.firebase.firestore.core.Filter$Operator: com.google.firebase.firestore.core.Filter$Operator[] values()
+com.google.firebase.auth.FirebaseAuth: com.google.firebase.auth.FirebaseAuth getInstance(com.google.firebase.FirebaseApp)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.grpc.okhttp.internal.CipherSuite: io.grpc.okhttp.internal.CipherSuite[] values()
+io.grpc.okhttp.internal.Platform$TlsExtensionType: io.grpc.okhttp.internal.Platform$TlsExtensionType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+androidx.core.R$id: int accessibility_custom_action_12
+androidx.loader.content.ModernAsyncTask$Status: androidx.loader.content.ModernAsyncTask$Status valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzvv: com.google.android.gms.internal.measurement.zzvv[] values()
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTimedOutEventName
+com.google.android.gms.internal.measurement.zzvm: com.google.android.gms.internal.measurement.zzyc zzbym
+io.grpc.internal.ClientStreamListener$RpcProgress: io.grpc.internal.ClientStreamListener$RpcProgress valueOf(java.lang.String)
+androidx.core.R$id: int notification_background
+com.google.firestore.v1.StructuredQuery$UnaryFilter$OperandTypeCase: com.google.firestore.v1.StructuredQuery$UnaryFilter$OperandTypeCase[] values()
+io.grpc.internal.CensusStatsModule$ClientCallTracer: int callEnded
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativePlatformViewId
+com.google.android.gms.measurement.AppMeasurement: void clearConditionalUserProperty(java.lang.String,java.lang.String,android.os.Bundle)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTriggerEventName
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.core.R$id: int accessibility_custom_action_25
+com.google.android.gms.base.R$string: int common_google_play_services_wear_update_text
+io.grpc.okhttp.internal.framed.HeadersMode: io.grpc.okhttp.internal.framed.HeadersMode[] values()
+androidx.core.R$id: int notification_main_column
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTimeToLive
+androidx.core.R$id: int text
+com.google.firebase.firestore.remote.ConnectivityMonitor$NetworkStatus: com.google.firebase.firestore.remote.ConnectivityMonitor$NetworkStatus[] values()
+com.google.firebase.firestore.model.value.FieldValueOptions$ServerTimestampBehavior: com.google.firebase.firestore.model.value.FieldValueOptions$ServerTimestampBehavior valueOf(java.lang.String)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+io.grpc.ConnectivityState: io.grpc.ConnectivityState valueOf(java.lang.String)
+com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver: AppMeasurementInstallReferrerReceiver()
+com.google.android.gms.internal.measurement.zzfq$zza: long zzaup
+com.google.android.gms.internal.measurement.zzvi: com.google.android.gms.internal.measurement.zzvi[] values()
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+com.google.android.gms.internal.measurement.zzfq$zzb$zzb: com.google.android.gms.internal.measurement.zzfq$zzb$zzb[] values()
+com.google.android.gms.internal.firebase_auth.zzbw: android.os.Parcelable$Creator CREATOR
+androidx.core.R$id: int action_divider
+androidx.core.R$id: int actions
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+io.grpc.okhttp.OkHttpChannelBuilder: io.grpc.okhttp.OkHttpChannelBuilder sslSocketFactory(javax.net.ssl.SSLSocketFactory)
+com.google.android.gms.internal.firebase_auth.zzbu: android.os.Parcelable$Creator CREATOR
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+com.google.android.gms.internal.firebase_auth.zzcc: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.FragmentManagerViewModel
+com.google.android.gms.measurement.internal.zzaa: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.auth.api.signin.GoogleSignInOptions: android.os.Parcelable$Creator CREATOR
+com.google.firebase.firestore.proto.MaybeDocument$DocumentTypeCase: com.google.firebase.firestore.proto.MaybeDocument$DocumentTypeCase valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+androidx.core.R$id: int accessibility_custom_action_22
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.Object mValue
+com.google.firebase.iid.FirebaseInstanceIdService
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_dark
+androidx.core.R$id: int tag_unhandled_key_listeners
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+com.google.firestore.v1.StructuredQuery$UnaryFilter$Operator: com.google.firestore.v1.StructuredQuery$UnaryFilter$Operator[] values()
+com.google.protobuf.WireFormat$JavaType: com.google.protobuf.WireFormat$JavaType valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+io.flutter.plugin.platform.SingleViewPresentation
+com.google.android.gms.internal.measurement.zzfq$zzb: com.google.android.gms.internal.measurement.zzvs zzaus
+com.google.android.gms.auth.api.signin.RevocationBoundService: RevocationBoundService()
+com.squareup.okhttp.TlsVersion: com.squareup.okhttp.TlsVersion[] values()
+com.google.android.gms.internal.firebase_auth.zzdr: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.flags.impl.FlagProviderImpl: boolean getBooleanFlagValue(java.lang.String,boolean,int)
+android.support.v4.media.session.ParcelableVolumeInfo
+io.flutter.plugins.imagepicker.ImagePickerFileProvider
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+com.google.protobuf.WireFormat$Utf8Validation: com.google.protobuf.WireFormat$Utf8Validation[] values()
+androidx.media.AudioAttributesCompat
+com.google.firestore.v1.TransactionOptions$ModeCase: com.google.firestore.v1.TransactionOptions$ModeCase valueOf(java.lang.String)
+android.support.v4.media.RatingCompat
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: boolean mActive
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+androidx.core.app.CoreComponentFactory
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+com.google.firebase.auth.EmailAuthCredential: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+io.flutter.embedding.android.FlutterView
+com.google.android.gms.auth.api.signin.RevocationBoundService
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+androidx.core.R$id: int icon_group
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+io.grpc.okhttp.OkHttpChannelBuilder: io.grpc.okhttp.OkHttpChannelBuilder forTarget(java.lang.String)
+com.google.firebase.firestore.FirestoreRegistrar: com.google.firebase.firestore.FirestoreMultiDbComponent lambda$getComponents$0(com.google.firebase.components.ComponentContainer)
+com.google.android.gms.auth.api.signin.internal.GoogleSignInOptionsExtensionParcelable: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.TwitterAuthCredential: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.StructuredQuery$CompositeFilter$Operator: com.google.firestore.v1.StructuredQuery$CompositeFilter$Operator valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+androidx.media.AudioAttributesCompatParcelizer
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_dark
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.flags.ModuleDescriptor: int MODULE_VERSION
+androidx.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+com.google.android.gms.internal.firebase_auth.zzak: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+io.flutter.view.FlutterView: float getDevicePixelRatio()
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+com.google.android.gms.internal.firebase_auth.zzdb: android.os.Parcelable$Creator CREATOR
+io.grpc.okhttp.internal.framed.HeadersMode: io.grpc.okhttp.internal.framed.HeadersMode valueOf(java.lang.String)
+com.google.firebase.firestore.Source: com.google.firebase.firestore.Source[] values()
+com.google.firestore.v1.StructuredQuery$Direction: com.google.firestore.v1.StructuredQuery$Direction valueOf(java.lang.String)
+com.google.firestore.v1.StructuredQuery$Filter$FilterTypeCase: com.google.firestore.v1.StructuredQuery$Filter$FilterTypeCase valueOf(java.lang.String)
+com.google.android.gms.measurement.AppMeasurementReceiver: AppMeasurementReceiver()
+io.flutter.plugins.firebase.storage.FirebaseStoragePlugin$StorageTaskEventType: io.flutter.plugins.firebase.storage.FirebaseStoragePlugin$StorageTaskEventType[] values()
+com.google.firebase.analytics.FirebaseAnalytics: com.google.firebase.analytics.FirebaseAnalytics getInstance(android.content.Context)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.firebase.firestore.proto.Target$TargetTypeCase: com.google.firebase.firestore.proto.Target$TargetTypeCase valueOf(java.lang.String)
+android.support.v4.media.MediaBrowserCompat$ItemReceiver
+com.google.firebase.firestore.core.LimboDocumentChange$Type: com.google.firebase.firestore.core.LimboDocumentChange$Type valueOf(java.lang.String)
+androidx.core.R$id: int info
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+com.google.firebase.iid.Registrar: Registrar()
+com.google.firebase.auth.internal.FederatedSignInActivity
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getAppInstanceId()
+com.google.firebase.auth.PhoneAuthProvider$ForceResendingToken: android.os.Parcelable$Creator CREATOR
+com.google.firebase.firestore.core.OnlineState: com.google.firebase.firestore.core.OnlineState[] values()
+com.squareup.okhttp.CipherSuite: com.squareup.okhttp.CipherSuite valueOf(java.lang.String)
+com.google.android.gms.base.R$string: int common_google_play_services_install_button
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+com.google.firestore.v1.Target$TargetTypeCase: com.google.firestore.v1.Target$TargetTypeCase valueOf(java.lang.String)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+io.grpc.InternalChannelz$ChannelTrace$Event$Severity: io.grpc.InternalChannelz$ChannelTrace$Event$Severity valueOf(java.lang.String)
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+com.google.firebase.firestore.util.Logger$Level: com.google.firebase.firestore.util.Logger$Level[] values()
+io.grpc.internal.GrpcUtil$Http2Error: io.grpc.internal.GrpcUtil$Http2Error valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+com.google.android.gms.base.R$string: int common_google_play_services_update_text
+androidx.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+com.google.firebase.iid.FirebaseInstanceIdReceiver
+com.google.firestore.v1.ListenRequest$TargetChangeCase: com.google.firestore.v1.ListenRequest$TargetChangeCase valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTriggerTimeout
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+io.grpc.internal.CensusStatsModule$ClientTracer: long inboundMessageCount
+com.google.firebase.components.ComponentDiscoveryService
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken[] values()
+com.google.android.gms.internal.measurement.zzyv: com.google.android.gms.internal.measurement.zzyv[] values()
+com.google.firestore.v1.DocumentTransform$FieldTransform$TransformTypeCase: com.google.firestore.v1.DocumentTransform$FieldTransform$TransformTypeCase valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfq$zza: com.google.android.gms.internal.measurement.zzfq$zza zzauq
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+com.google.firebase.firestore.Query$Direction: com.google.firebase.firestore.Query$Direction[] values()
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.internal.firebase_auth.zzaq: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.ListenResponse$ResponseTypeCase: com.google.firestore.v1.ListenResponse$ResponseTypeCase[] values()
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_light
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+com.google.android.gms.measurement.AppMeasurement: java.util.Map getUserProperties(java.lang.String,java.lang.String,boolean)
+io.grpc.okhttp.OkHttpChannelBuilder$NegotiationType: io.grpc.okhttp.OkHttpChannelBuilder$NegotiationType valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+androidx.core.R$id: int accessibility_custom_action_17
+com.google.firebase.firestore.remote.WatchChange$WatchTargetChangeType: com.google.firebase.firestore.remote.WatchChange$WatchTargetChangeType valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfq$zza
+io.grpc.SecurityLevel: io.grpc.SecurityLevel[] values()
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.flags.ModuleDescriptor: java.lang.String MODULE_ID
+com.google.android.gms.measurement.AppMeasurementJobService: AppMeasurementJobService()
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+com.google.android.gms.base.R$string: int common_google_play_services_unsupported_text
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+com.google.protobuf.GeneratedMessageLite$MethodToInvoke: com.google.protobuf.GeneratedMessageLite$MethodToInvoke valueOf(java.lang.String)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mCreationTimestamp
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+com.google.firebase.analytics.FirebaseAnalytics: java.lang.String getFirebaseInstanceId()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.R$id: int action_text
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken valueOf(java.lang.String)
+io.opencensus.trace.MessageEvent$Type: io.opencensus.trace.MessageEvent$Type[] values()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+com.google.firebase.auth.FirebaseAuth
+androidx.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.firebase.firestore.FirestoreRegistrar: FirestoreRegistrar()
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+androidx.lifecycle.ViewModel: ViewModel()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+com.google.android.gms.internal.measurement.zzvm: int zzbyn
+com.google.firebase.auth.internal.zzn: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase_auth.zzbk: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+io.grpc.Context$DirectExecutor: io.grpc.Context$DirectExecutor valueOf(java.lang.String)
+com.google.firebase.firestore.core.Filter$Operator: com.google.firebase.firestore.core.Filter$Operator valueOf(java.lang.String)
+com.google.firestore.v1.Value$ValueTypeCase: com.google.firestore.v1.Value$ValueTypeCase valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+androidx.core.R$id: int tag_transition_group
+androidx.fragment.app.FragmentActivity: FragmentActivity()
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+com.google.firebase.auth.GoogleAuthCredential: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.TransactionOptions$ModeCase: com.google.firestore.v1.TransactionOptions$ModeCase[] values()
+com.google.android.gms.measurement.AppMeasurementService
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+io.flutter.embedding.engine.FlutterJNI
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+com.google.firestore.v1.BatchGetDocumentsRequest$ConsistencySelectorCase: com.google.firestore.v1.BatchGetDocumentsRequest$ConsistencySelectorCase[] values()
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mTimedOutEventParams
+io.grpc.internal.CensusStatsModule$ClientTracer: long outboundMessageCount
+com.google.firebase.firestore.core.OrderBy$Direction: com.google.firebase.firestore.core.OrderBy$Direction[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+com.google.firebase.iid.Registrar
+com.google.android.gms.internal.measurement.zzvg: com.google.android.gms.internal.measurement.zzvg[] values()
+com.google.android.gms.common.internal.ResolveAccountResponse: android.os.Parcelable$Creator CREATOR
+com.anncode.platzitripsflutter.MainActivity: MainActivity()
+com.google.firebase.firestore.core.OnlineState: com.google.firebase.firestore.core.OnlineState valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+io.grpc.MethodDescriptor$MethodType: io.grpc.MethodDescriptor$MethodType valueOf(java.lang.String)
+io.flutter.view.FlutterView: void setInitialRoute(java.lang.String)
+com.google.android.gms.base.R$string: int common_google_play_services_update_button
+com.google.firebase.firestore.remote.WatchChange$WatchTargetChangeType: com.google.firebase.firestore.remote.WatchChange$WatchTargetChangeType[] values()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+androidx.media.AudioAttributesImplApi21Parcelizer
+com.google.firebase.firestore.remote.ConnectivityMonitor$NetworkStatus: com.google.firebase.firestore.remote.ConnectivityMonitor$NetworkStatus valueOf(java.lang.String)
+com.google.firebase.firestore.remote.Stream$State: com.google.firebase.firestore.remote.Stream$State[] values()
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+androidx.core.R$id: int line3
+com.google.firebase.firestore.DocumentSnapshot$ServerTimestampBehavior: com.google.firebase.firestore.DocumentSnapshot$ServerTimestampBehavior valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+com.google.android.gms.measurement.AppMeasurement: int getMaxUserProperties(java.lang.String)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.base.R$string: int common_google_play_services_install_text
+com.google.firebase.firestore.local.QueryPurpose: com.google.firebase.firestore.local.QueryPurpose[] values()
+io.grpc.okhttp.OkHttpChannelBuilder: io.grpc.okhttp.OkHttpChannelBuilder scheduledExecutorService(java.util.concurrent.ScheduledExecutorService)
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+com.google.android.gms.internal.measurement.zzfq$zza: com.google.android.gms.internal.measurement.zzxd zznw
+io.grpc.okhttp.OkHttpChannelBuilder: io.grpc.okhttp.OkHttpChannelBuilder transportExecutor(java.util.concurrent.Executor)
+com.google.protobuf.WireFormat$FieldType: com.google.protobuf.WireFormat$FieldType valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+com.google.android.gms.internal.measurement.zzyq: com.google.android.gms.internal.measurement.zzyq[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+io.flutter.view.FlutterView: io.flutter.view.FlutterNativeView getFlutterNativeView()
+com.google.firebase.firestore.core.UserData$Source: com.google.firebase.firestore.core.UserData$Source[] values()
+com.google.firebase.analytics.FirebaseAnalytics: void setCurrentScreen(android.app.Activity,java.lang.String,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void attachToNative(boolean)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+com.google.firebase.auth.internal.zzf: android.os.Parcelable$Creator CREATOR
+io.grpc.internal.SerializingExecutor: int runState
+androidx.core.R$id: int accessibility_custom_action_18
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_light_normal_background
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+android.support.v4.media.session.MediaSessionCompat$QueueItem
+com.google.firebase.components.ComponentDiscoveryService: ComponentDiscoveryService()
+com.google.firebase.auth.internal.zzh: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.Write$OperationCase: com.google.firestore.v1.Write$OperationCase[] values()
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+com.squareup.okhttp.CipherSuite: com.squareup.okhttp.CipherSuite[] values()
+com.google.android.gms.base.R$drawable: int googleg_standard_color_18
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+androidx.core.R$id: int chronometer
+com.google.firestore.v1.StructuredQuery$UnaryFilter$OperandTypeCase: com.google.firestore.v1.StructuredQuery$UnaryFilter$OperandTypeCase valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+androidx.core.app.ComponentActivity: ComponentActivity()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.core.R$id: int blocking
+android.support.v4.media.MediaBrowserCompat$MediaItem
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+io.flutter.app.FlutterApplication
+androidx.core.R$id: int tag_unhandled_key_event_manager
+com.google.android.gms.base.R$string: int common_google_play_services_updating_text
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+io.grpc.internal.DnsNameResolver$JdkAddressResolver: io.grpc.internal.DnsNameResolver$JdkAddressResolver[] values()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,byte[],int)
+io.grpc.util.RoundRobinLoadBalancerFactory$ReadyPicker: int index
+com.google.android.gms.common.R$string: int common_google_play_services_unknown_issue
+com.google.protobuf.WireFormat$Utf8Validation: com.google.protobuf.WireFormat$Utf8Validation valueOf(java.lang.String)
+com.google.firebase.iid.FirebaseInstanceIdService: FirebaseInstanceIdService()
+androidx.core.R$id: int title
+io.grpc.internal.MessageDeframer$State: io.grpc.internal.MessageDeframer$State[] values()
+androidx.core.R$id: int accessibility_custom_action_11
+androidx.core.R$id: int accessibility_custom_action_10
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mTriggeredEventParams
+com.google.android.gms.measurement.AppMeasurementService: AppMeasurementService()
+io.opencensus.trace.NetworkEvent$Type: io.opencensus.trace.NetworkEvent$Type[] values()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+com.google.firebase.auth.internal.zzd: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycling$1
+com.google.firebase.auth.FirebaseAuth: com.google.firebase.auth.FirebaseAuth getInstance()
+com.google.firebase.firestore.core.LimboDocumentChange$Type: com.google.firebase.firestore.core.LimboDocumentChange$Type[] values()
+com.google.android.gms.measurement.internal.zzl: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.util.DynamiteApi
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager)
+com.google.android.gms.measurement.AppMeasurement: void logEventInternal(java.lang.String,java.lang.String,android.os.Bundle)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mExpiredEventParams
+android.support.v4.media.MediaDescriptionCompat: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.PhoneAuthCredential: android.os.Parcelable$Creator CREATOR
+androidx.versionedparcelable.CustomVersionedParcelable
+com.google.android.gms.signin.internal.zaj: android.os.Parcelable$Creator CREATOR
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+androidx.core.R$id: int accessibility_custom_action_29
+com.google.android.gms.flags.impl.FlagProviderImpl: long getLongFlagValue(java.lang.String,long,int)
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+com.google.firestore.v1.Target$ResumeTypeCase: com.google.firestore.v1.Target$ResumeTypeCase valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+io.grpc.internal.CensusStatsModule$ClientTracer: long inboundUncompressedSize
+com.google.firebase.firestore.MetadataChanges: com.google.firebase.firestore.MetadataChanges[] values()
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+com.google.android.gms.internal.flags.zzb: android.os.IBinder asBinder()
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.flags.ModuleDescriptor
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformViewFactory,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,java.lang.Object,android.view.View$OnFocusChangeListener)
+com.google.firebase.firestore.util.AsyncQueue$TimerId: com.google.firebase.firestore.util.AsyncQueue$TimerId valueOf(java.lang.String)
+io.grpc.internal.CensusStatsModule$ClientTracer: long outboundUncompressedSize
+com.google.common.util.concurrent.AbstractFuture: com.google.common.util.concurrent.AbstractFuture$Listener listeners
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.flags.ModuleDescriptor: ModuleDescriptor()
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.core.R$id: int accessibility_custom_action_15
+androidx.core.R$id: int accessibility_custom_action_6
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+androidx.media.AudioAttributesCompat: AudioAttributesCompat()
+com.google.firebase.iid.FirebaseInstanceId: com.google.firebase.iid.FirebaseInstanceId getInstance(com.google.firebase.FirebaseApp)
+com.google.android.gms.internal.measurement.zztw: int zzbtr
+androidx.core.R$id: int accessibility_custom_action_1
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity: SignInHubActivity()
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.api.internal.LifecycleCallback
+com.google.android.gms.measurement.AppMeasurement: void endAdUnitExposure(java.lang.String)
+com.google.firestore.v1.Precondition$ConditionTypeCase: com.google.firestore.v1.Precondition$ConditionTypeCase valueOf(java.lang.String)
+com.google.android.gms.base.R$string: int common_google_play_services_enable_title
+com.google.firestore.v1.TransactionOptions$ReadOnly$ConsistencySelectorCase: com.google.firestore.v1.TransactionOptions$ReadOnly$ConsistencySelectorCase[] values()
+androidx.core.R$id: int icon
+androidx.core.R$id: int action_image
+com.google.android.gms.internal.measurement.zzvm$zzc
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+androidx.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+com.google.firebase.auth.GithubAuthCredential: android.os.Parcelable$Creator CREATOR
+com.google.firebase.iid.zzb: zzb()
+com.google.firebase.firestore.core.DocumentViewChange$Type: com.google.firebase.firestore.core.DocumentViewChange$Type valueOf(java.lang.String)
+com.google.android.gms.measurement.AppMeasurement: java.util.Map getUserPropertiesAs(java.lang.String,java.lang.String,java.lang.String,boolean)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+com.google.android.gms.internal.firebase_auth.zzbo: android.os.Parcelable$Creator CREATOR
+androidx.core.R$id: int accessibility_custom_action_0
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+io.grpc.Status$Code: io.grpc.Status$Code[] values()
+com.google.firestore.v1.ListenRequest$TargetChangeCase: com.google.firestore.v1.ListenRequest$TargetChangeCase[] values()
+com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+android.support.v4.media.session.MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+io.grpc.internal.ClientStreamListener$RpcProgress: io.grpc.internal.ClientStreamListener$RpcProgress[] values()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+io.grpc.internal.CensusStatsModule$ClientCallTracer: io.grpc.internal.CensusStatsModule$ClientTracer streamTracer
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+com.google.android.gms.internal.firebase_auth.zzbg: android.os.Parcelable$Creator CREATOR
+androidx.savedstate.SavedStateRegistry$1
+io.flutter.embedding.android.FlutterSplashView$SavedState
+com.google.android.gms.internal.firebase_auth.zzbe: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+android.support.v4.media.MediaBrowserCompat$CustomActionResultReceiver
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+com.google.android.gms.common.internal.safeparcel.SafeParcelable: java.lang.String NULL
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+com.google.android.gms.internal.firebase_auth.zzdd: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mExpiredEventName
+io.flutter.view.FlutterCallbackInformation
+androidx.core.app.RemoteActionCompatParcelizer
+com.google.android.gms.internal.flags.zzb: boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.core.R$id: int dialog_button
+com.google.android.gms.internal.measurement.zzfq$zza: int zznr
+com.google.firestore.v1.Target$ResumeTypeCase: com.google.firestore.v1.Target$ResumeTypeCase[] values()
+com.google.android.gms.measurement.AppMeasurement: void clearConditionalUserPropertyAs(java.lang.String,java.lang.String,java.lang.String,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+android.support.v4.media.session.MediaSessionCompat$QueueItem: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.FirebaseAuthRegistrar
+com.google.protobuf.WireFormat$FieldType: com.google.protobuf.WireFormat$FieldType[] values()
+android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.measurement.internal.zzh: android.os.Parcelable$Creator CREATOR
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+io.flutter.app.FlutterActivity: FlutterActivity()
+com.google.android.gms.flags.impl.FlagProviderImpl: FlagProviderImpl()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.google.firestore.v1.Precondition$ConditionTypeCase: com.google.firestore.v1.Precondition$ConditionTypeCase[] values()
+com.google.android.gms.measurement.AppMeasurementReceiver
+com.google.android.gms.common.zzk: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+com.squareup.okhttp.TlsVersion: com.squareup.okhttp.TlsVersion valueOf(java.lang.String)
+androidx.core.R$id: int accessibility_custom_action_14
+com.google.firebase.firestore.FirestoreRegistrar: java.util.List getComponents()
+io.flutter.view.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,android.graphics.SurfaceTexture)
+com.google.android.gms.base.R$string: int common_google_play_services_update_title
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+com.google.firebase.database.collection.LLRBNode$Color: com.google.firebase.database.collection.LLRBNode$Color[] values()
+com.google.firestore.v1.Write$OperationCase: com.google.firestore.v1.Write$OperationCase valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+com.google.firebase.auth.internal.zzl: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+com.google.firestore.v1.Target$QueryTarget$QueryTypeCase: com.google.firestore.v1.Target$QueryTarget$QueryTypeCase valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+android.support.v4.media.session.PlaybackStateCompat$CustomAction
+androidx.core.R$id: int accessibility_custom_action_5
+com.google.android.gms.auth.api.signin.internal.SignInConfiguration: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase_auth.zzau: android.os.Parcelable$Creator CREATOR
+androidx.core.R$id: int notification_main_column_container
+androidx.core.R$id: int tag_accessibility_heading
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+com.google.android.gms.common.api.GoogleApiActivity
+androidx.core.R$id: int accessibility_custom_action_27
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+androidx.core.R$id: int accessibility_custom_action_26
+io.flutter.plugins.imagepicker.ImagePickerFileProvider: ImagePickerFileProvider()
+io.opencensus.trace.MessageEvent$Type: io.opencensus.trace.MessageEvent$Type valueOf(java.lang.String)
+io.grpc.InternalChannelz$ChannelTrace$Event$Severity: io.grpc.InternalChannelz$ChannelTrace$Event$Severity[] values()
+androidx.core.R$id: int accessibility_action_clickable_span
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+com.google.firebase.iid.FirebaseInstanceId
+com.google.android.gms.measurement.AppMeasurement
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_disabled
+com.google.android.gms.measurement.internal.zzfh: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase_auth.zzbs: android.os.Parcelable$Creator CREATOR
+io.opencensus.trace.Span$Options: io.opencensus.trace.Span$Options valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+com.google.firestore.v1.ListenResponse$ResponseTypeCase: com.google.firestore.v1.ListenResponse$ResponseTypeCase valueOf(java.lang.String)
+com.google.firebase.firestore.proto.Target$TargetTypeCase: com.google.firebase.firestore.proto.Target$TargetTypeCase[] values()
+io.flutter.app.FlutterApplication: FlutterApplication()
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+androidx.annotation.Keep
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+com.google.android.gms.internal.measurement.zzfq$zzb: com.google.android.gms.internal.measurement.zzxd zznw
+android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.measurement.AppMeasurement: java.util.List getConditionalUserPropertiesAs(java.lang.String,java.lang.String,java.lang.String)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+com.google.android.gms.internal.measurement.zztw: boolean zzbts
+androidx.core.R$id: int accessibility_custom_action_2
+io.grpc.okhttp.internal.TlsVersion: io.grpc.okhttp.internal.TlsVersion valueOf(java.lang.String)
+com.google.android.gms.flags.impl.FlagProviderImpl: int getIntFlagValue(java.lang.String,int,int)
+androidx.core.R$id: int accessibility_custom_action_23
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase_auth.zzbq: android.os.Parcelable$Creator CREATOR
+androidx.core.R$id: int accessibility_custom_action_7
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+com.google.firebase.firestore.FirebaseFirestoreException$Code: com.google.firebase.firestore.FirebaseFirestoreException$Code valueOf(java.lang.String)
+com.google.firebase.auth.internal.FederatedSignInActivity: FederatedSignInActivity()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+com.google.android.gms.base.R$drawable: int googleg_disabled_color_18
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+androidx.core.R$id: int accessibility_custom_action_20
+com.google.android.gms.flags.impl.FlagProviderImpl: void init(com.google.android.gms.dynamic.IObjectWrapper)
+androidx.core.R$id: int tag_accessibility_actions
+androidx.lifecycle.SingleGeneratedAdapterObserver
+androidx.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+android.support.v4.media.session.PlaybackStateCompat
+io.flutter.plugins.imagepicker.CameraDevice: io.flutter.plugins.imagepicker.CameraDevice[] values()
+com.google.common.util.concurrent.MoreExecutors$DirectExecutor: com.google.common.util.concurrent.MoreExecutors$DirectExecutor valueOf(java.lang.String)
+io.grpc.internal.CensusTracingModule$ClientCallTracer: int callEnded
+io.grpc.internal.GrpcUtil$Http2Error: io.grpc.internal.GrpcUtil$Http2Error[] values()
+com.google.android.gms.internal.auth.zzay: com.google.android.gms.internal.auth.zzay[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy[] values()
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_disabled
+com.google.android.gms.flags.impl.FlagProviderImpl
+androidx.legacy.content.WakefulBroadcastReceiver: WakefulBroadcastReceiver()
+com.google.firebase.iid.Registrar: java.util.List getComponents()
+io.grpc.okhttp.internal.framed.ErrorCode: io.grpc.okhttp.internal.framed.ErrorCode valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+androidx.fragment.app.Fragment$2
+com.google.android.gms.internal.firebase_auth.zzcz: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+com.google.firebase.auth.FacebookAuthCredential: android.os.Parcelable$Creator CREATOR
+io.opencensus.trace.Span$Options: io.opencensus.trace.Span$Options[] values()
+android.support.v4.media.MediaBrowserCompat$SearchResultReceiver
+com.google.android.gms.internal.firebase_auth.zzce: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mName
+io.grpc.MethodDescriptor$MethodType: io.grpc.MethodDescriptor$MethodType[] values()
+com.google.firestore.v1.StructuredQuery$Filter$FilterTypeCase: com.google.firestore.v1.StructuredQuery$Filter$FilterTypeCase[] values()
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[])
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_dark_focused
+com.google.firestore.v1.StructuredQuery$CompositeFilter$Operator: com.google.firestore.v1.StructuredQuery$CompositeFilter$Operator[] values()
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+com.google.firebase.analytics.FirebaseAnalytics
+androidx.activity.ComponentActivity$3
+io.flutter.view.FlutterView: io.flutter.app.FlutterPluginRegistry getPluginRegistry()
+androidx.activity.ComponentActivity: ComponentActivity()
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+com.google.android.gms.flags.impl.FlagProviderImpl: java.lang.String getStringFlagValue(java.lang.String,java.lang.String,int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+androidx.core.R$id: int accessibility_custom_action_8
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+androidx.core.R$id: int right_icon
+com.google.android.gms.internal.firebase_auth.zzjn: com.google.android.gms.internal.firebase_auth.zzjn[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+com.google.android.gms.internal.firebase_auth.zzas: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.base.R$string: int common_google_play_services_notification_ticker
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int)
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy valueOf(java.lang.String)
+androidx.core.R$id: int action_container
+io.grpc.okhttp.OkHttpChannelBuilder$NegotiationType: io.grpc.okhttp.OkHttpChannelBuilder$NegotiationType[] values()
+io.grpc.okhttp.NegotiationType: io.grpc.okhttp.NegotiationType valueOf(java.lang.String)
+com.google.android.gms.internal.firebase_auth.zzaw: android.os.Parcelable$Creator CREATOR
+io.grpc.SecurityLevel: io.grpc.SecurityLevel valueOf(java.lang.String)
+com.google.firebase.firestore.model.value.FieldValueOptions$ServerTimestampBehavior: com.google.firebase.firestore.model.value.FieldValueOptions$ServerTimestampBehavior[] values()
+io.grpc.internal.CensusStatsModule$ClientTracer: long outboundWireSize
+com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.base.R$string: int common_google_play_services_enable_text
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+com.google.firebase.auth.zzd: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.google.android.gms.internal.firebase_auth.zzby: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+android.support.v4.media.MediaMetadataCompat
+com.google.android.gms.common.annotation.KeepName
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getCurrentScreenClass()
+android.support.v4.app.RemoteActionCompatParcelizer
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_dark_normal
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar: java.util.List getComponents()
+com.google.android.gms.measurement.AppMeasurement: void beginAdUnitExposure(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_dark_normal
+com.google.android.gms.flags.zzd: zzd()
+io.grpc.okhttp.OkHttpChannelBuilder
+androidx.core.R$id: int accessibility_custom_action_28
+androidx.core.R$id: int text2
+com.google.firebase.provider.FirebaseInitProvider
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+io.opencensus.trace.Status$CanonicalCode: io.opencensus.trace.Status$CanonicalCode valueOf(java.lang.String)
+android.support.v4.media.session.MediaSessionCompat$Token
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+io.grpc.internal.GzipInflatingBuffer$State: io.grpc.internal.GzipInflatingBuffer$State valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_light_focused
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+com.google.firebase.firestore.core.DocumentViewChange$Type: com.google.firebase.firestore.core.DocumentViewChange$Type[] values()
+com.google.firebase.firestore.FirebaseFirestoreException$Code: com.google.firebase.firestore.FirebaseFirestoreException$Code[] values()
+com.google.firebase.database.collection.LLRBNode$Color: com.google.firebase.database.collection.LLRBNode$Color valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI,boolean)
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+io.flutter.plugins.imagepicker.CameraDevice: io.flutter.plugins.imagepicker.CameraDevice valueOf(java.lang.String)
+com.google.firebase.auth.ActionCodeSettings: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+com.google.firebase.firestore.model.Document$DocumentState: com.google.firebase.firestore.model.Document$DocumentState[] values()
+com.google.firestore.v1.DocumentTransform$FieldTransform$ServerValue: com.google.firestore.v1.DocumentTransform$FieldTransform$ServerValue[] values()
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_dark_focused
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+com.google.firebase.firestore.DocumentSnapshot$ServerTimestampBehavior: com.google.firebase.firestore.DocumentSnapshot$ServerTimestampBehavior[] values()
+androidx.core.R$id: int accessibility_custom_action_4
+androidx.versionedparcelable.ParcelImpl
+androidx.core.R$id: int normal
+com.google.firebase.auth.UserProfileChangeRequest: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+com.google.firebase.firestore.remote.Stream$State: com.google.firebase.firestore.remote.Stream$State valueOf(java.lang.String)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+android.support.v4.media.MediaBrowserCompat$MediaItem: android.os.Parcelable$Creator CREATOR
+io.grpc.internal.MessageDeframer$State: io.grpc.internal.MessageDeframer$State valueOf(java.lang.String)
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy[] values()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+androidx.media.AudioAttributesImplBaseParcelizer
+com.google.protobuf.GeneratedMessageLite$MethodToInvoke: com.google.protobuf.GeneratedMessageLite$MethodToInvoke[] values()
+com.squareup.okhttp.Protocol: com.squareup.okhttp.Protocol valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterOverlaySurface
+androidx.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.google.android.gms.auth.api.signin.SignInAccount: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+com.google.firebase.iid.FirebaseInstanceIdReceiver: FirebaseInstanceIdReceiver()
+com.google.common.util.concurrent.AbstractFuture: com.google.common.util.concurrent.AbstractFuture$Waiter waiters
+androidx.core.R$id: int right_side
+com.google.firestore.v1.BatchGetDocumentsResponse$ResultCase: com.google.firestore.v1.BatchGetDocumentsResponse$ResultCase valueOf(java.lang.String)
+io.grpc.internal.KeepAliveManager$State: io.grpc.internal.KeepAliveManager$State valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTriggeredTimestamp
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+androidx.core.R$id: int accessibility_custom_action_19
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+com.google.firebase.firestore.util.Logger$Level: com.google.firebase.firestore.util.Logger$Level valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.google.firebase.firestore.proto.MaybeDocument$DocumentTypeCase: com.google.firebase.firestore.proto.MaybeDocument$DocumentTypeCase[] values()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+io.grpc.internal.CensusStatsModule$ClientTracer: long inboundWireSize
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+androidx.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.measurement.internal.zzad: android.os.Parcelable$Creator CREATOR
+androidx.core.content.FileProvider: FileProvider()
+androidx.lifecycle.FullLifecycleObserverAdapter
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+androidx.core.R$id: int accessibility_custom_action_31
+com.google.firestore.v1.StructuredQuery$Direction: com.google.firestore.v1.StructuredQuery$Direction[] values()
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+com.google.firebase.firestore.core.ViewSnapshot$SyncState: com.google.firebase.firestore.core.ViewSnapshot$SyncState valueOf(java.lang.String)
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_light_normal_background
+io.grpc.Status$Code: io.grpc.Status$Code valueOf(java.lang.String)
+com.google.android.gms.internal.firebase_auth.zzca: android.os.Parcelable$Creator CREATOR
+com.google.firestore.v1.TransactionOptions$ReadOnly$ConsistencySelectorCase: com.google.firestore.v1.TransactionOptions$ReadOnly$ConsistencySelectorCase valueOf(java.lang.String)
+com.squareup.okhttp.Protocol: com.squareup.okhttp.Protocol[] values()
+io.flutter.embedding.android.FlutterImageView
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar: AnalyticsConnectorRegistrar()
+com.google.common.util.concurrent.AbstractFuture$Waiter: java.lang.Thread thread
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mOrigin
+androidx.core.R$id: int accessibility_custom_action_21
+androidx.core.R$id: int tag_accessibility_pane_title
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.measurement.zzfq$zzb: int zzaur
+com.google.firebase.firestore.core.UserData$Source: com.google.firebase.firestore.core.UserData$Source valueOf(java.lang.String)
+com.google.android.gms.internal.firebase_auth.zzai: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.zzb: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+androidx.core.R$id: int async
+androidx.core.R$id: int tag_screen_reader_focusable
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+androidx.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+io.grpc.okhttp.internal.Platform$TlsExtensionType: io.grpc.okhttp.internal.Platform$TlsExtensionType[] values()
+com.google.android.gms.internal.firebase_auth.zzbi: android.os.Parcelable$Creator CREATOR
+io.flutter.view.FlutterView$ZeroSides: io.flutter.view.FlutterView$ZeroSides valueOf(java.lang.String)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+io.grpc.okhttp.internal.Protocol: io.grpc.okhttp.internal.Protocol valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+io.grpc.internal.DnsNameResolver$JdkAddressResolver: io.grpc.internal.DnsNameResolver$JdkAddressResolver valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+androidx.core.R$id: int accessibility_custom_action_24
+com.google.android.gms.measurement.AppMeasurement: com.google.android.gms.measurement.AppMeasurement getInstance(android.content.Context)
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+com.google.firebase.firestore.FirestoreRegistrar
+com.google.protobuf.WireFormat$JavaType: com.google.protobuf.WireFormat$JavaType[] values()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getCurrentScreenName()
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+com.google.android.gms.measurement.AppMeasurement: long generateEventId()
+com.google.firebase.firestore.DocumentChange$Type: com.google.firebase.firestore.DocumentChange$Type valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+com.google.android.gms.common.internal.ReflectedParcelable
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTriggeredEventName
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+com.google.common.util.concurrent.MoreExecutors$DirectExecutor: com.google.common.util.concurrent.MoreExecutors$DirectExecutor[] values()
+com.google.android.gms.internal.measurement.zzvm$zzc: com.google.android.gms.internal.measurement.zzvd zzbys
+com.google.firebase.auth.PlayGamesAuthCredential: android.os.Parcelable$Creator CREATOR
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_icon_dark_normal_background
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+com.google.android.gms.internal.measurement.zzfq$zzb
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+com.google.firestore.v1.DocumentTransform$FieldTransform$ServerValue: com.google.firestore.v1.DocumentTransform$FieldTransform$ServerValue valueOf(java.lang.String)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.core.app.RemoteActionCompat
+com.google.android.gms.internal.measurement.zzfq$zza: java.lang.String zzauo
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+androidx.activity.ImmLeaksCleaner
+androidx.core.R$id: int accessibility_custom_action_3
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.google.firebase.firestore.core.OrderBy$Direction: com.google.firebase.firestore.core.OrderBy$Direction valueOf(java.lang.String)
+com.google.firebase.firestore.MetadataChanges: com.google.firebase.firestore.MetadataChanges valueOf(java.lang.String)
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.Object createParams
+com.google.android.gms.auth.TokenData: android.os.Parcelable$Creator CREATOR
+io.flutter.view.FlutterView: io.flutter.embedding.engine.dart.DartExecutor getDartExecutor()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String observatoryUri
+com.google.android.gms.base.R$string: int common_google_play_services_install_title
+com.google.firestore.v1.StructuredQuery$FieldFilter$Operator: com.google.firestore.v1.StructuredQuery$FieldFilter$Operator[] values()
+com.google.android.gms.internal.firebase_auth.zzbc: android.os.Parcelable$Creator CREATOR
+io.flutter.view.FlutterView$ZeroSides: io.flutter.view.FlutterView$ZeroSides[] values()
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getGmpAppId()
+androidx.activity.ComponentActivity$2
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+com.google.firebase.firestore.local.QueryPurpose: com.google.firebase.firestore.local.QueryPurpose valueOf(java.lang.String)
+com.google.android.gms.internal.firebase_auth.zzdg: android.os.Parcelable$Creator CREATOR
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,byte[])
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+com.google.firestore.v1.TargetChange$TargetChangeType: com.google.firestore.v1.TargetChange$TargetChangeType valueOf(java.lang.String)
+io.grpc.internal.KeepAliveManager$State: io.grpc.internal.KeepAliveManager$State[] values()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformViewFactory viewFactory
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_light_normal
+com.google.firebase.provider.FirebaseInitProvider: FirebaseInitProvider()
+com.google.android.gms.signin.internal.zah: android.os.Parcelable$Creator CREATOR
+io.flutter.view.FlutterView: android.graphics.Bitmap getBitmap()
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,android.graphics.SurfaceTexture)
+com.google.android.gms.base.R$string: int common_google_play_services_notification_channel_name
+com.google.android.gms.base.R$drawable: int common_google_signin_btn_text_dark_normal_background
+com.google.firebase.firestore.Query$Direction: com.google.firebase.firestore.Query$Direction valueOf(java.lang.String)
+com.google.firebase.firestore.Source: com.google.firebase.firestore.Source valueOf(java.lang.String)
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+io.flutter.view.FlutterView
+com.google.android.gms.base.R$string: int common_signin_button_text
+android.support.v4.media.MediaDescriptionCompat
+com.google.android.gms.internal.firebase_auth.zzcg: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzfq$zzb: com.google.android.gms.internal.measurement.zzfq$zzb zzaut
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+com.google.firestore.v1.StructuredQuery$UnaryFilter$Operator: com.google.firestore.v1.StructuredQuery$UnaryFilter$Operator valueOf(java.lang.String)
+com.google.android.gms.internal.firebase_auth.zzba: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+io.grpc.okhttp.internal.framed.ErrorCode: io.grpc.okhttp.internal.framed.ErrorCode[] values()
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.opencensus.trace.Status$CanonicalCode: io.opencensus.trace.Status$CanonicalCode[] values()
+com.google.firebase.firestore.model.Document$DocumentState: com.google.firebase.firestore.model.Document$DocumentState valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzfq$zzb: int zznr
