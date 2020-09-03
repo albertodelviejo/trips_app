@@ -14,12 +14,16 @@ class HeaderAppBar extends StatelessWidget {
 
     return StreamBuilder(
       stream: userBloc.authStatus,
-      builder: (BuildContext context, AsyncSnapshot snapshot){
-        switch (snapshot.connectionState){
+      builder: (BuildContext context, AsyncSnapshot snapshot) {
+        switch (snapshot.connectionState) {
           case ConnectionState.waiting:
-            return Center(child: CircularProgressIndicator(),);
+            return Center(
+              child: CircularProgressIndicator(),
+            );
           case ConnectionState.none:
-            return Center(child: CircularProgressIndicator(),);
+            return Center(
+              child: CircularProgressIndicator(),
+            );
           case ConnectionState.active:
             return showPlacesData(snapshot);
           case ConnectionState.done:
@@ -29,15 +33,10 @@ class HeaderAppBar extends StatelessWidget {
         }
       },
     );
-
-
-
-
   }
 
-
-  Widget showPlacesData(AsyncSnapshot snapshot){
-    if(!snapshot.hasData || snapshot.hasError){
+  Widget showPlacesData(AsyncSnapshot snapshot) {
+    if (!snapshot.hasData || snapshot.hasError) {
       return Stack(
         children: <Widget>[
           GradientBack(height: 250.0),
@@ -49,14 +48,10 @@ class HeaderAppBar extends StatelessWidget {
           uid: snapshot.data.uid,
           name: snapshot.data.displayName,
           email: snapshot.data.email,
-          photoURL: snapshot.data.photoUrl
-      );
+          photoURL: snapshot.data.photoUrl);
 
       return Stack(
-        children: <Widget>[
-          GradientBack(height: 250.0),
-          CardImageList(user)
-        ],
+        children: <Widget>[GradientBack(height: 250.0), CardImageList(user)],
       );
     }
   }

@@ -8,7 +8,6 @@ import 'package:platzi_trips_app/User/model/user.dart';
 import 'package:platzi_trips_app/widgets/floating_action_button_green.dart';
 
 class CardImageList extends StatefulWidget {
-
   User user;
 
   CardImageList(@required this.user);
@@ -19,10 +18,10 @@ class CardImageList extends StatefulWidget {
     return _CardImageList();
   }
 }
+
 UserBloc userBloc;
 
 class _CardImageList extends State<CardImageList> {
-
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
@@ -33,42 +32,35 @@ class _CardImageList extends State<CardImageList> {
         height: 350.0,
         child: StreamBuilder(
             stream: userBloc.placesStream,
-            builder: (context, AsyncSnapshot snapshot){
-              switch (snapshot.connectionState){
+            builder: (context, AsyncSnapshot snapshot) {
+              switch (snapshot.connectionState) {
                 case ConnectionState.waiting:
                   print("PLACESLIST: WAITING");
-                  return CircularProgressIndicator();
+                  return Center(child: CircularProgressIndicator());
                 case ConnectionState.none:
                   print("PLACESLIST: NONE");
-                  return CircularProgressIndicator();
+                  return Center(child: CircularProgressIndicator());
                 case ConnectionState.active:
                   print("PLACESLIST: ACTIVE");
-                  return listViewPlaces(userBloc.buildPlaces(snapshot.data.documents, widget.user));
+                  return listViewPlaces(userBloc.buildPlaces(
+                      snapshot.data.documents, widget.user));
                 case ConnectionState.done:
                   print("PLACESLIST: DONE");
-                  return listViewPlaces(userBloc.buildPlaces(snapshot.data.documents, widget.user));
+                  return listViewPlaces(userBloc.buildPlaces(
+                      snapshot.data.documents, widget.user));
 
                 default:
                   print("PLACESLIST: DEFAULT");
-
               }
-            }
-        )
-    );
-
-
-
-
+            }));
   }
 
-
-  Widget listViewPlaces(List<Place> places){
-
-    void setLiked(Place place){
+  Widget listViewPlaces(List<Place> places) {
+    void setLiked(Place place) {
       setState(() {
         place.liked = !place.liked;
         userBloc.likePlace(place, widget.user.uid);
-        place.likes = place.liked?place.likes+1:place.likes-1;
+        place.likes = place.liked ? place.likes + 1 : place.likes - 1;
         userBloc.placeSelectedSink.add(place);
       });
     }
@@ -78,9 +70,9 @@ class _CardImageList extends State<CardImageList> {
     return ListView(
       padding: EdgeInsets.all(25.0),
       scrollDirection: Axis.horizontal,
-      children: places.map((place){
+      children: places.map((place) {
         return GestureDetector(
-          onTap: (){
+          onTap: () {
             print("CLICK PLACE: ${place.name}");
             userBloc.placeSelectedSink.add(place);
           },
@@ -89,8 +81,8 @@ class _CardImageList extends State<CardImageList> {
             width: 300.0,
             height: 250.0,
             left: 20.0,
-            iconData: place.liked?iconDataLiked:iconDataLike,
-            onPressedFabIcon: (){
+            iconData: place.liked ? iconDataLiked : iconDataLike,
+            onPressedFabIcon: () {
               setLiked(place);
             },
             internet: true,
@@ -99,9 +91,4 @@ class _CardImageList extends State<CardImageList> {
       }).toList(),
     );
   }
-
-
-
-
-
 }

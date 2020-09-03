@@ -54,19 +54,20 @@ class _SignInScreen extends State<SignInScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Flexible(
-                child: Container(
-                  width: screenWidht,
-                  child: Text("Welcome \n This is your Travel App",
-                    style: TextStyle(
-                        fontSize: 37.0,
-                        fontFamily: "Lato",
-                        color: Colors.white,
-                        fontWeight: FontWeight.bold
-
-
+                  child: Container(
+                    width: screenWidht,
+                    child: Padding(
+                      padding: const EdgeInsets.all(15.0),
+                      child: Text("Welcome \n This is your Travel App",
+                        style: TextStyle(
+                            fontSize: 37.0,
+                            fontFamily: "Lato",
+                            color: Colors.white,
+                            fontWeight: FontWeight.bold
+                        ),
+                      ),
                     ),
                   ),
-                ),
               ),
 
               ButtonGreen(text: "Login with Gmail",

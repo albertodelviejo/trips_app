@@ -9,26 +9,16 @@ import 'package:platzi_trips_app/User/ui/screens/profile_trips.dart';
 class PlatziTripsCupertino extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Scaffold(
       bottomNavigationBar: CupertinoTabScaffold(
-        tabBar: CupertinoTabBar(
-            items: [
-              BottomNavigationBarItem(
-                  icon: Icon(Icons.home, color: Colors.indigo),
-                  title: Text("")
-              ),
-              BottomNavigationBarItem(
-                  icon: Icon(Icons.search, color: Colors.indigo),
-                  title: Text("")
-              ),
-              BottomNavigationBarItem(
-                  icon: Icon(Icons.person, color: Colors.indigo),
-                  title: Text("")
-              ),
-            ]
-        ),
-
+        tabBar: CupertinoTabBar(items: [
+          BottomNavigationBarItem(
+              icon: Icon(Icons.home, color: Colors.indigo), title: Text("")),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.search, color: Colors.indigo), title: Text("")),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.person, color: Colors.indigo), title: Text("")),
+        ]),
         tabBuilder: (BuildContext context, int index) {
           switch (index) {
             case 0:
@@ -56,12 +46,9 @@ class PlatziTripsCupertino extends StatelessWidget {
                 },
               );
               break;
-
           }
-
         },
       ),
     );
   }
-
 }
